@@ -1,0 +1,35 @@
+[ 
+  {
+    "location": "Johannesburg",
+    "latitude": -26.1714537,
+    "longitude": 27.8999389,
+    "zoom": 8,
+    "data": {
+      "date": 1612887191
+    }
+  }, {
+    "location": "Durban",
+    "latitude": -29.8587,
+    "longitude": 31.0218,
+    "zoom": 8,
+    "data": {
+      "date": 1612887191
+    }
+  }, {
+    "location": "Cape Town",
+    "latitude": -33.9249,
+    "longitude": 18.4241,
+    "zoom": 8,
+    "data": {
+      "date": 1612887191
+    }
+  }, {
+    "location": "Zinkwazi",
+    "latitude": -29.2718,
+    "longitude": 31.3685,
+    "zoom": 8,
+    "data": {
+      "date": 1612887191
+    }
+  }
+]
