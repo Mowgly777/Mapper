@@ -1,0 +1,53 @@
+[ 
+  {
+    "title": "Trip 1",
+    "trip": [
+      {
+        "location": "Johannesburg",
+        "latitude": -26.170,
+        "longitude": 27.900,
+        "zoom": 8,
+        "time": 1000,
+        "data": {
+          "date": 1612887191
+        }
+      }, {
+        "location": "Johannesburg",
+        "latitude": -26.182,
+        "longitude": 27.910,
+        "zoom": 8,
+        "time": 1000,
+        "data": {
+          "date": 1612887191
+        }
+      }, {
+        "location": "Johannesburg",
+        "latitude": -26.193,
+        "longitude": 27.921,
+        "zoom": 8,
+        "time": 1000,
+        "data": {
+          "date": 1612887191
+        }
+      }, {
+        "location": "Johannesburg",
+        "latitude": -26.204,
+        "longitude": 27.932,
+        "zoom": 8,
+        "time": 1000,
+        "data": {
+          "date": 1612887191
+        }
+      }, {
+        "location": "Johannesburg",
+        "latitude": -26.215,
+        "longitude": 27.943,
+        "zoom": 8,
+        "time": 1000,
+        "data": {
+          "date": 1612887191
+        }
+      }
+    ]
+  }
+]
